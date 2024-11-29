@@ -3,7 +3,7 @@ Notpixel Telegram mini app bot auto watch ads using only query ids
 
 ## Features
 
-- Support telethon sessions or query IDs
+- Just need query IDs
 - Support multi-accounts
 
 ## Supported Operating Systems
